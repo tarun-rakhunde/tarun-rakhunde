@@ -9,7 +9,7 @@ A Full-stack web developer, creative coder and self-proclaimed designer who spec
 - 🏦 I'm a Full Stack Web Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily .js, .html, .css.
-- 🌐 Checkout my [portfolio](https://portfolio-tarun-rakhunde.vercel.app/)
+- 🌐 Checkout my [portfolio](https://tarunr.vercel.app/)
 - 📖 I am currently reading Rich Dad Poor Dad by Robert Kiyosaki
 - 💬 Talk to me about silicon valley, startups, movies & series.
 - 📧 Contact me at: [tarunrakhunde@gmail.com](mailto:tarunrakhunde@gmail.com)
